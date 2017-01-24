@@ -1,7 +1,7 @@
 {
-  "name": "kotchuprik/yii2-sortable-widgets",
+  "name": "knik/yii2-sortable-widgets",
   "description": "Implementation Rubaxa/Sortable for Yii2. Sortable grid view inside.",
-  "homepage": "http://github.com/kotchuprik/yii2-sortable-widgets",
+  "homepage": "http://github.com/ET-NiK/yii2-sortable-widgets",
   "keywords": [
     "yii2",
     "rubaxa",
@@ -18,6 +18,10 @@
     {
       "name": "Constantine Chuprik",
       "email": "constantinchuprik@gmail.com"
+    },
+    {
+      "name": "Nikita Kuznetsov",
+      "email": "nikita.hldm@gmail.com"
     }
   ],
   "require": {
@@ -25,7 +29,7 @@
   },
   "autoload": {
     "psr-4": {
-      "kotchuprik\\sortable\\": ""
+      "knik\\sortable\\": ""
     }
   }
 }
