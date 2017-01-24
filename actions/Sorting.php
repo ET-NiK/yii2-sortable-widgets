@@ -1,6 +1,6 @@
 <?php
 
-namespace kotchuprik\sortable\actions;
+namespace knik\sortable\actions;
 
 use yii\base\Action;
 use yii\db\ActiveQuery;

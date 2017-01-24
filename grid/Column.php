@@ -1,6 +1,6 @@
 <?php
 
-namespace kotchuprik\sortable\grid;
+namespace knik\sortable\grid;
 
 use kotchuprik\sortable\assets\SortableAsset;
 use yii\helpers\Html;

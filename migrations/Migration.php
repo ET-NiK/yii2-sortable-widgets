@@ -1,6 +1,6 @@
 <?php
 
-namespace kotchuprik\sortable\migrations;
+namespace knik\sortable\migrations;
 
 use yii\db\Schema;
 

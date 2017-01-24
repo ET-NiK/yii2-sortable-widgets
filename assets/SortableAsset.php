@@ -1,6 +1,6 @@
 <?php
 
-namespace kotchuprik\sortable\assets;
+namespace knik\sortable\assets;
 
 use yii\web\AssetBundle;
 
