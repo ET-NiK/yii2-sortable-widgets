@@ -2,7 +2,7 @@
 
 namespace knik\sortable\grid;
 
-use kotchuprik\sortable\assets\SortableAsset;
+use knik\sortable\assets\SortableAsset;
 use yii\helpers\Html;
 use yii\web\View;
 
